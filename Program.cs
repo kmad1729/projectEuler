@@ -10,7 +10,8 @@ namespace projectEuler
             // Console.WriteLine($"Prb15 --> {Prb15.Run()}");
             // Console.WriteLine($"Prb10 --> {Prb10.Run()}");
             // Console.WriteLine($"Prb8 --> {Prb8.Run()}");
-            Console.WriteLine($"Prb11 --> {Prb11.Run()}");
+            // Console.WriteLine($"Prb11 --> {Prb11.Run()}");
+            Console.WriteLine($"Prb9 --> {Prb9.Run()}");
         }
     }
 }
